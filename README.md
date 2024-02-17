@@ -4,7 +4,7 @@ This is the main repository for all of the projects in the course.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Age Calculator](https://github.com/DeoVindice29/30-mini-project-html-css-js/tree/d3feaceb878921c7db74da526903c4cf2644ba00/age%20calculator)                             | [Live Demo](https://30-mini-project-html-css-js.com/projects/age-calculator/)               |
+| 01  | [Age Calculator](https://github.com/DeoVindice29/30-mini-project-html-css-js/tree/d3feaceb878921c7db74da526903c4cf2644ba00/age%20calculator)                             | [Live Demo](https://github.com/DeoVindice29/30-mini-project-html-css-js.git)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
