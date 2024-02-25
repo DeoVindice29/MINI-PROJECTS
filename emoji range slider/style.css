@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(180deg, #fffd69, #ffb169);
+}
+.wrapper{
+    background: #f6f6f6;
+    padding: 30px 40px;
+    border-radius: 10px;
+    max-width: 350px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper .section{
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+}
+.wrapper .emojis{
+    height: 1000%;
+    display: flex;
+    flex-direction: column;
+}
+.section .emojis li{
+    list-style: none;
+    height: 10%;
+    width: 100%;
+    transition: all 0.3s ease;
+}
+.section .emojis li img{
+    height: 100%;
+    width: 100%;
+}
+.wrapper .slider{
+    height: 12px;
+    width: 100%;
+    background: #d9d9d9;
+    margin-top: 40px;
+    position: relative;
+    border-radius: 50px;
+}
+.slider input{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    outline: none;
+    appearance: none;
+    background: none;
+}
+.slider input::-webkit-slider-thumb{
+    height: 25px;
+    width: 25px;
+    -webkit-appearance: none;
+    background: none;
+    cursor: pointer;
+}
+.slider .progress-bar{
+    width: 0%;
+    height: 100%;
+    background: linear-gradient(45deg, #fffd69, #ffb169);
+    border-radius: 50px;
+}
+.slider .thumb{
+    height: 25px;
+    width: 25px;
+    background: #ffb169;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 1;
+    transform: translate(-50%, -50%);
+    padding: 2px;
+    pointer-events: none;
+}
+.slider .thumb span{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#fffd69, #ffb169);
+    border: 2px solid #f6f6f6;
+    border-radius: 50%;
+}
