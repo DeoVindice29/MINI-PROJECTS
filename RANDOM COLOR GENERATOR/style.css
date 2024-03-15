@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #111;
+}
+#btn{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 2%;
+    font-size: 20px;
+    border: 0;
+    outline: 0;
+    font-family: sans-serif;
+    background: #333;
+    color: aqua;
+    cursor: pointer;
+}
