@@ -10,6 +10,25 @@
 |  06  | [BORDER LOADING ANIMATION CLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/BORDER%20LOADING%20ANIMATION)                                   |
 |  07  | [CALCULATOR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/CALCULATOR)                                                                         |
 |  08  | [CARD SLIDER](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/CARD%20SLIDER)                                                                     |
-|  08  | []()                                                                         |
-|  08  | []()                                                                         |
-|  08  | []()                                                                         |
+|  09  | [CHANGE PROFILE](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/CHANGE%20PROFILE)                                                               |
+|  10  | [CIRCULAR PROGRESS BAR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/CIRCULAR%20PROGRESS%20BAR)                                               |
+|  11  | [COOKIE CONSERT BOX](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/COOKIE%20CONSERT%20BOX)                                                     |
+|  12  | [COPY TEXT TO CLIPBOARD](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/COPY%20TEXT%20TO%20CLIPBOARD)                                           |
+|  13  | [COUNTER UP ANIMATION](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/COUNTER%20UP%20ANIMATION)                                                 |
+|  14  | []()                                                     |
+|  15  | []()                                                     |
+|  16  | []()                                                     |
+|  17  | []()                                                     |
+|  18  | []()                                                     |
+|  19  | []()                                                     |
+|  20  | []()                                                     |
+|  21  | []()                                                     |
+|  22  | []()                                                     |
+|  23  | []()                                                     |
+|  24  | []()                                                     |
+|  25  | []()                                                     |
+|  26  | []()                                                     |
+|  27  | []()                                                     |
+|  28  | []()                                                     |
+|  29  | []()                                                     |
+|  30  | []()                                                     |
