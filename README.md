@@ -15,9 +15,9 @@
 |  11  | [COOKIE CONSERT BOX](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/COOKIE%20CONSERT%20BOX)                                                     |
 |  12  | [COPY TEXT TO CLIPBOARD](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/COPY%20TEXT%20TO%20CLIPBOARD)                                           |
 |  13  | [COUNTER UP ANIMATION](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/COUNTER%20UP%20ANIMATION)                                                 |
-|  14  | []()                                                     |
-|  15  | []()                                                     |
-|  16  | []()                                                     |
+|  14  | [DETECT ADBLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DETECT%20ADBLOCK)                                                               |
+|  15  | [DIGITAL CLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DIGITAL%20CLOCK)                                                                 |
+|  16  | [DOUBLE CLICK HEART](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DOUBLE%20CLICK%20HEART)                                                     |
 |  17  | []()                                                     |
 |  18  | []()                                                     |
 |  19  | []()                                                     |
