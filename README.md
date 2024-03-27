@@ -18,7 +18,7 @@
 |  14  | [DETECT ADBLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DETECT%20ADBLOCK)                                                               |
 |  15  | [DIGITAL CLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DIGITAL%20CLOCK)                                                                 |
 |  16  | [DOUBLE CLICK HEART](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DOUBLE%20CLICK%20HEART)                                                     |
-|  17  | []()                                                     |
+|  17  | [DOUBLE VERTICAL SLIDER](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DOUBLE%20VERTICAL%20SLIDER)                                             |
 |  18  | []()                                                     |
 |  19  | []()                                                     |
 |  20  | []()                                                     |
