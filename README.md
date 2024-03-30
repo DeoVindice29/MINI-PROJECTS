@@ -22,8 +22,8 @@
 |  18  | [DRAG & DROP](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/DRAG%20DROP)                                                                       |
 |  19  | [EMOJI RANGE SLIDER](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/EMOJI%20RANGE%20SLIDER)                                                     |
 |  20  | [FEDBACK UI DESIGN](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/FEEDBACK%20UI%20DESIGN)                                                      |
-|  21  | []()                                                     |
-|  22  | []()                                                     |
+|  21  | [FOOTER](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/FOOTER)                                                                                 |
+|  22  | [FORM VALIDATION](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/FORM%20VALIDATION)                                                             |
 |  23  | []()                                                     |
 |  24  | []()                                                     |
 |  25  | []()                                                     |
