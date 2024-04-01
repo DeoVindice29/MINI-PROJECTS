@@ -24,9 +24,9 @@
 |  20  | [FEDBACK UI DESIGN](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/FEEDBACK%20UI%20DESIGN)                                                      |
 |  21  | [FOOTER](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/FOOTER)                                                                                 |
 |  22  | [FORM VALIDATION](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/FORM%20VALIDATION)                                                             |
-|  23  | [GITHUB PROFILE SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GITHUB%20PROFILES%20SEARCH)                                                 |
-|  24  | []()                                                     |
-|  25  | []()                                                     |
+|  23  | [GITHUB PROFILE SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GITHUB%20PROFILES%20SEARCH)                                              |
+|  24  | [GOD, CHEAP, FAST](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GOOD%20CHEAP%20FAST)                                                          |
+|  25  | [HIDDEN SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/HIDDEN%20SEARCH)                                                                 |
 |  26  | []()                                                     |
 |  27  | []()                                                     |
 |  28  | []()                                                     |
