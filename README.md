@@ -27,7 +27,7 @@
 |  23  | [GITHUB PROFILE SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GITHUB%20PROFILES%20SEARCH)                                              |
 |  24  | [GOD, CHEAP, FAST](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GOOD%20CHEAP%20FAST)                                                          |
 |  25  | [HIDDEN SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/HIDDEN%20SEARCH)                                                                 |
-|  26  | []()                                                     |
+|  26  | [MINI CALENDAR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/MINI%20CALENDAR)                                                                 |
 |  27  | []()                                                     |
 |  28  | []()                                                     |
 |  29  | []()                                                     |
