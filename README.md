@@ -27,8 +27,18 @@
 |  23  | [GITHUB PROFILE SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GITHUB%20PROFILES%20SEARCH)                                              |
 |  24  | [GOD, CHEAP, FAST](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/GOOD%20CHEAP%20FAST)                                                          |
 |  25  | [HIDDEN SEARCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/HIDDEN%20SEARCH)                                                                 |
-|  26  | [MINI CALENDAR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/MINI%20CALENDAR)                                                                 |
-|  27  | []()                                                     |
-|  28  | []()                                                     |
-|  29  | []()                                                     |
-|  30  | []()                                                     |
+|  26  | [IMAGE SEARCH ENGINE](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/IMAGE%20SEARCH%20ENGINE)                                                   |
+|  27  | [MINI CALENDAR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/MINI%20CALENDAR)                                                                 |
+|  28  | [MOBILE TAB NAV](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/MOBILE%20TAB%20NAV)                                                             |
+|  29  | [MOUSE FOLLOWING ANIMATION](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/MOUSE%20FOLLOWING%20ANIMATION)                                       |
+|  30  | [MUSIC PLAYER](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/MUSIC%20PLAYER)                                                                   |
+|  31  | [RANDOM COLOR GENERATOR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/RANDOM%20COLOR%20GENERATOR)                                             |
+|  32  | [SELECT MENU](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/SELECT%20MENU)                                                                     |
+|  33  | [STAR RATING](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/STAR%20RATING)                                                                     |
+|  34  | [STICKY NAV](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/STICKY%20NAVIGATION)                                                                |
+|  35  | [STOPWATCH](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/STOPWATCH)                                                                           |
+|  36  | [STOPWATCH II](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/STOPWATCH%20II)                                                                   |
+|  37  | [THEME CLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/THEME%20CLOCK)                                                                     |
+|  38  | [TO DO LIST](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/TO%20DO%20LIST)                                                                     |
+|  39  | []()                                                                   |
+|  40  | []()                                                                   |
