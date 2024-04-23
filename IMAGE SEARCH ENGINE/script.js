@@ -1,5 +1,3 @@
-// password unsplash = 2F-DcNiV#$+6e+D
-
 const accessKey = "ESjefLBB5GHFv7OEzrtg3l-YP9CrIkCSBRAcs0idVxk";
 
 const searchForm = document.getElementById("search-form");
