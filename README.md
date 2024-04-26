@@ -41,4 +41,4 @@
 |  37  | [STOPWATCH II](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/STOPWATCH%20II)                                                                   |
 |  38  | [THEME CLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/THEME%20CLOCK)                                                                     |
 |  39  | [TO DO LIST](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/TO%20DO%20LIST)                                                                     |
-|  40  | []()                                                                   |
+|  40  | [TOAST NOTIFICATION](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/TOAST%20NOTIFICATION)                                                       |
