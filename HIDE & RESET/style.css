@@ -27,7 +27,7 @@ img {
   transition: transform 0.3s ease-in-out;
 }
 img:hover {
-  transform: scale(1.1);
+  transform: scale(0.90);
 }
 button {
   background: white;
@@ -42,9 +42,16 @@ button:hover {
   transform: scale(1.1);
 }
 i {
-  font-size: 200px;
+  font-size: 205px;
   transition: transform ease-in-out 1s;
 }
 i:hover {
   transform: scale(0.2);
 }
+p {
+  margin: 10px;
+  background-color: cyan;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
