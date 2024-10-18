@@ -1,8 +1,8 @@
 # My Simple Projects - HTML/CSS and JavaScript
 
-|  #   | Project                                                                                                                                                              |
-| :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  01  | [AGE CALCULATOR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/AGE%20CALCULATOR)                                                               |
+|  #   | Project                                                                                                                                                              | Live Demo                           |
+| :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:
+|  01  | [AGE CALCULATOR](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/AGE%20CALCULATOR)                                                               |(https://deovindice29.github.io/MINI-PROJECT/AGE%20CALCULATOR/)
 |  02  | [ANALOG CLOCK](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/ANALOG%20CLOCK)                                                                   |
 |  03  | [ANIMATED NAV](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/ANIMATED%20NAV)                                                                   |
 |  04  | [BG CHANGE EFFECT](https://github.com/DeoVindice29/SimpleProject-HTML-CSS-JS/tree/main/BG%20CHANGE%20EFFECT)                                                         |
