@@ -27,7 +27,6 @@ body.dark {
   text-align: center;
   color: var(--text-primary);
   background: var(--bg-button);
-  box-shadow: 7px -7px 0px var(--border);
   border: 1px solid var(--border);
   font-weight: 400;
   font-size: 16px;
