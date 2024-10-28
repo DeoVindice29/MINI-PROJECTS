@@ -114,12 +114,6 @@ nav ul li a:hover {
 }
 
 @media (max-width: 692px) {
-    .hero .back {
-        position: absolute;
-        right: 0;
-        bottom: 0;
-    }
-
     nav ul li a {
         font-size: 12px;
     }
