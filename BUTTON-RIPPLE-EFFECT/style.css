@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
 * {
   box-sizing: border-box;
 }
@@ -14,6 +15,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
 button {
   background-color: purple;
   color: #fff;
@@ -28,9 +30,11 @@ button {
   margin: 10px 0;
   position: relative;
 }
+
 button:focus {
   outline: none;
 }
+
 button .circle {
   position: absolute;
   background-color: #fff;
