@@ -51,5 +51,4 @@
 |  47  | [](https://github.com/DeoVindice29/MINI-PROJECTS/tree/main/)                                        |[LIVE DEMO](https://deovindice29.github.io/MINI-PROJECTS//)                                                                                |
 |  48  | [](https://github.com/DeoVindice29/MINI-PROJECTS/tree/main/)                                        |[LIVE DEMO](https://deovindice29.github.io/MINI-PROJECTS//)                                                                                |
 |  49  | [](https://github.com/DeoVindice29/MINI-PROJECTS/tree/main/)                                        |[LIVE DEMO](https://deovindice29.github.io/MINI-PROJECTS//)                                                                                |
-|  50  | [](https://github.com/DeoVindice29/MINI-PROJECTS/tree/main/)                                        |[LIVE DEMO](https://deovindice29.github.io/MINI-PROJECTS//)                                           
-                                    |
+|  50  | [](https://github.com/DeoVindice29/MINI-PROJECTS/tree/main/)                                        |[LIVE DEMO](https://deovindice29.github.io/MINI-PROJECTS//)
