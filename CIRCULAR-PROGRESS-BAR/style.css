@@ -4,6 +4,7 @@
   font-family: sans-serif;
   box-sizing: border-box;
 }
+
 body {
   background: #888;
   height: 100vh;
@@ -11,11 +12,13 @@ body {
   align-items: center;
   justify-content: center;
 }
+
 .skill {
   width: 160px;
   height: 160px;
   position: relative;
 }
+
 .outer {
   width: 160px;
   height: 160px;
@@ -24,6 +27,7 @@ body {
   box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
 }
+
 .inner {
   width: 120px;
   height: 120px;
@@ -36,10 +40,12 @@ body {
     -0.5px -0.5px 0px rgba(255, 255, 255, 1),
     0.5px 0.5px 0px rgba(0, 0, 0, 0.15), 0px 12px 10px -10px rgba(0, 0, 0, 0.5);
 }
+
 #number {
   font-weight: 600;
   color: #fff;
 }
+
 circle {
   fill: none;
   stroke: url(#GradientColor);
@@ -48,11 +54,13 @@ circle {
   stroke-dashoffset: 472;
   animation: anim 2s linear forwards;
 }
+
 svg {
   position: absolute;
   top: 0;
   left: 0;
 }
+
 @keyframes anim {
   100% {
     stroke-dashoffset: 146;
