@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cookie Consent Box</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
     <div class="wrapper">
       <img src="cookie.png" />
+
       <div class="content">
         <header>Cookie Consent</header>
         <p>
           This website use cookies to ensure you get the best experience on our
           website.
         </p>
+        
         <div class="buttons">
           <button class="item">I understand</button>
           <a href="#" class="item">Learn more</a>
@@ -22,23 +26,7 @@
       </div>
     </div>
 
-    <script>
-      const cookieBox = document.querySelector(".wrapper"),
-        acceptBtn = cookieBox.querySelector(".buttons button");
-
-      acceptBtn.onclick = () => {
-        document.cookie = "CookieBy=cdfrl; max-age=" + 60 * 60 * 24 * 30;
-        if (document.cookie) {
-          cookieBox.classList.add("hide");
-        } else {
-          alert("Cookie can't be set!");
-        }
-      };
-
-      let checkCookie = document.cookie.indexOf("CookieBy=cdfrl");
-      checkCookie != -1
-        ? cookieBox.classList.add("hide")
-        : cookieBox.classList.remove("hide");
+    <script src="script.js">
     </script>
   </body>
 </html>
