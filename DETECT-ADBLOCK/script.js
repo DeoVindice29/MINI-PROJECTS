@@ -24,7 +24,7 @@ button.addEventListener("click", () => {
 });
 
 if (!wrapper.classList.contains("show")) {
-  getProperty == "block"
+  getProperty == "none"
     ? wrapper.classList.add("show")
     : wrapper.classList.remove("show");
 }
