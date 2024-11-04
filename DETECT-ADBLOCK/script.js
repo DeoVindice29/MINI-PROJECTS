@@ -11,6 +11,7 @@ let adClasses = [
   "ad-placeholder",
   "ad-badge",
   "AdBlock",
+  "AdBlocker",
 ];
 for (let item of adClasses) {
   detect.classList.add(item);
