@@ -16,7 +16,7 @@ async function searchImages() {
   const data = await response.json();
 
   if (page === 1) {
-    searchResult.innerHTML = ""; // Clear search results only on first page
+    searchResult.innerHTML = "";
   }
 
   const results = data.results;
@@ -33,16 +33,15 @@ async function searchImages() {
     searchResult.appendChild(imageLink);
   });
 
-  // Check for empty results within the loop
   if (data.total === 0) {
     const message = document.createElement("p");
-    message.innerText = "No Images Found!"; // More descriptive message
+    message.innerText = "No Images Found!";
     searchResult.appendChild(message);
     showMoreBtn.style.display = "none";
-    return; // Exit the loop to avoid creating empty elements
+    return;
   }
 
-  showMoreBtn.style.display = data.total > 12 ? "block" : "none"; // Show button only if more results
+  showMoreBtn.style.display = data.total > 12 ? "block" : "none";
 }
 
 searchForm.addEventListener("submit", (e) => {
