@@ -1,10 +1,13 @@
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+body {
+    position: relative;
     background: #111;
 }
-#btn{
+
+#btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     margin: 5px;
     padding: 10px;
     border-radius: 5px;

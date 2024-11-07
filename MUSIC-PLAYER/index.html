@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Music Player</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
     <div class="container">
       <div class="music-player">
@@ -13,27 +15,32 @@
           <div class="circle">
             <i class=""><img src="media/left-arrow.png" alt="" /></i>
           </div>
+
           <div class="circle">
             <i class=""><img src="media/menu.png" alt="" /></i>
           </div>
         </nav>
+
         <img src="media/itunes.png" class="song-img" />
         <h1>Viva la vida</h1>
         <p>Coldplay</p>
         <audio id="song">
           <source src="media/Coldplay_Viva_La_Vida.mp3" type="audio/mpeg" />
         </audio>
+
         <input type="range" value="0" id="progress" />
         <div class="controls">
           <div>
             <img src="media/backward.png" />
           </div>
+
           <div onclick="playPause()">
             <i class="pause" id="controlIcon">
               <img src="media/pause.png" class="musicPlay" />
               <img src="media/play-button-arrowhead.png" class="musicPause" />
             </i>
           </div>
+          
           <div>
             <img src="media/fast-forward.png" />
           </div>
