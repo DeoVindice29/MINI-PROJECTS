@@ -3,12 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   width: 100%;
   height: 100vh;
   color: #fff;
   background: linear-gradient(300deg, rgb(255, 0, 180), aqua);
 }
+
 .stopwatch {
   width: 90%;
   max-width: 600px;
@@ -19,6 +21,7 @@ body {
   margin: 200px auto 0;
   box-sizing: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
+
 .stopwatch h1 {
   margin-top: 60px;
   font-size: 64px;
@@ -26,16 +29,19 @@ body {
   margin-bottom: 60px;
   margin-top: 20px;
 }
+
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .buttons img {
   width: 50px;
   margin: 0 20px;
   cursor: pointer;
 }
+
 .buttons img:nth-child(2) {
   width: 80px;
 }
